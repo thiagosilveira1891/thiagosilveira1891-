@@ -19,4 +19,4 @@ Estoy desarrollando **DevDashboard** y creando mi propia marca de ropa.
 
 ---
 
-![Lewis Hamilton con los brazos en alto; Thank you, Lewis](https://i.pinimg.com/736x/a8/e4/63/a8e463f9ad6a31e3b8403aff165a579f.jpg)
+![Lewis Hamilton con los brazos en alto; Thank you, Lewis](./hamilton.png)
