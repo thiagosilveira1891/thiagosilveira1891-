@@ -1,4 +1,4 @@
-Thiago Silveira
+# Thiago Silveira
 
 Estudiante de Ingeniería en Computación en la FING.
 
@@ -20,9 +20,5 @@ Estoy desarrollando **DevDashboard** y creando mi propia marca de ropa.
 ---
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Lewis_Hamilton%2C_British_GP_2022_%2852382788875%29_%28cropped%29.jpg" width="180" alt="Lewis Hamilton en el Gran Premio de Gran Bretaña de 2022">
-  <br>
-  <sub>Lewis Hamilton / 44</sub>
+  <img src="hamilton.png" width="860" alt="Lewis Hamilton con los brazos en alto; Thank you, Lewis">
 </p>
-
-<sub>Foto: Jen Ross · <a href="https://commons.wikimedia.org/wiki/File:Lewis_Hamilton,_British_GP_2022_(52382788875)_(cropped).jpg">Wikimedia Commons, versión recortada</a> · <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></sub>
